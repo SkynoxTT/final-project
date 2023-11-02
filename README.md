@@ -1,4 +1,4 @@
-# dz8
+# vuejs-project
 
 ## Project setup
 ```
